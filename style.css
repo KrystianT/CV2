@@ -1,0 +1,130 @@
+/* Initial body */
+body {
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+
+
+
+
+/* Initial menu */
+.menu {
+  background: #202024 url('http://orig09.deviantart.net/bcf8/f/2013/174/3/e/recycled_texture_background_by_sandeep_m-d6aeau9.jpg') repeat left top;
+  left: -285px;  /* start off behind the scenes */
+  height: 100%;
+  position: fixed;
+  width: 285px;
+}
+
+/* Basic styling */
+
+.jumbotron {
+  background-image: url('http://7-themes.com/data_images/out/76/7030767-3d-background-wallpaper.jpg'); 
+  height: 100%;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+.menu ul {
+  border-top: 1px solid #636366;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  border-bottom: 1px solid #636366;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 45px;
+  padding-bottom: 3px;
+  padding-left: 20px;
+  padding-top: 3px;
+}
+
+.menu a {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-close {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+
+.icon-menu {
+  color: #fff;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-top: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-menu i {
+  margin-right: 5px;
+}
+
+#CV {
+	font-family: Algerian;
+	text-align:center;
+	padding-top: -2px;
+	font-size: 70px;
+	
+	color: #ffffff;
+	
+}
+
+h1{
+	
+	font-family: Broadway;
+	
+	margin-bottom: 10px;
+	color:#ffffff;
+	font-size: 35px;
+	text-align:center;
+}
+h2{
+	font-family: Broadway;
+	text-align:center;
+	margin-bottom: 10px;
+	color:#ffffff;
+	font-size: 25px;
+}
+h3{
+	font-family: Broadway;
+	text-align:center;
+	margin-bottom: 10px;
+	color:#ffffff;
+	font-size: 45px;
+}
+
+h4{
+	font-family: Georgia;
+	text-align:center;
+	margin-bottom: 10px;
+	color:#ffffff;
+	font-size: 30px;
+}
+h5{
+	font-family: Georgia;
+	text-align:center;
+	margin-bottom: 10px;
+	color:#ffffff;
+	font-size: 60px;
+}
+
+
+
+
